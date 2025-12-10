@@ -17,7 +17,7 @@ Para testar o projeto localmente, siga estas etapas:
 
 1. Abra o terminal (ou prompt de comando) e execute o seguinte comando para clonar o repositório:
 
-   `git clone https://github.com/joaocastro95/Calculator-OPP.git`
+   `git clone https://github.com/joaocastro95/Dark-Light-Mode.git`
 
 2. Após clonar o repositório, vá até a pasta clonada.
 
